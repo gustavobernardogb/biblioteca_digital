@@ -1,0 +1,13 @@
+br\com\bibliotecadigital\model\Usuario.class
+br\com\bibliotecadigital\servlet\DevolucaoServlet.class
+br\com\bibliotecadigital\servlet\UsuarioServlet.class
+br\com\bibliotecadigital\servlet\LivroServlet.class
+br\com\bibliotecadigital\servlet\EmprestimoServlet.class
+br\com\bibliotecadigital\TesteConexao.class
+br\com\bibliotecadigital\dao\UsuarioDAO.class
+br\com\bibliotecadigital\model\Livro.class
+br\com\bibliotecadigital\util\JPAUtil.class
+br\com\bibliotecadigital\model\Emprestimo.class
+br\com\bibliotecadigital\dao\LivroDAO.class
+br\com\bibliotecadigital\dao\EmprestimoDAO.class
+br\com\bibliotecadigital\service\EmprestimoService.class

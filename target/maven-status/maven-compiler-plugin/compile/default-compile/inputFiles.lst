@@ -1,0 +1,13 @@
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\dao\EmprestimoDAO.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\dao\LivroDAO.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\dao\UsuarioDAO.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\model\Emprestimo.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\model\Livro.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\model\Usuario.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\service\EmprestimoService.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\servlet\DevolucaoServlet.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\servlet\EmprestimoServlet.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\servlet\LivroServlet.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\servlet\UsuarioServlet.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\TesteConexao.java
+C:\Eclipse\eclipse-workspace\biblioteca-digital\src\main\java\br\com\bibliotecadigital\util\JPAUtil.java
